@@ -1,0 +1,172 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  padding: 0;
+}
+
+.heading {
+  font-family: "Roboto", sans-serif;
+}
+
+.text {
+  font-family: "Lora", serif;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 0px;
+  max-width: 1440px;
+  margin: auto;
+}
+
+.anchors {
+  display: flex;
+  gap: 10px;
+  font-weight: 500;
+}
+
+.banner-section {
+  background-color: #eff0ed;
+  padding: 60px 0;
+  margin-bottom: 60px;
+}
+
+.banner {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.collection {
+  width: 180px;
+  height: 50px;
+  font-size: large;
+  font-weight: 200;
+}
+
+.title {
+  font-size: 8rem;
+  font-weight: 450;
+  margin-bottom: 30px;
+}
+
+.hoodiegirl {
+  height: 600px;
+}
+
+.shopcollections {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin: 40px;
+  max-width: 1440px;
+  margin: auto;
+}
+
+.shoptitle {
+  font-size: 50px;
+}
+
+.shopparagraph {
+  font-size: 20px;
+  width: 800px;
+  margin: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.grids {
+  background-color: #f3f4f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.grid-item {
+  width: 300px;
+  height: 350px;
+}
+
+/* ABOUT PAGE */
+.about {
+  margin: 30px 0px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 50px;
+}
+
+.about-title {
+  font-size: 100px;
+  font-weight: 4 00;
+}
+
+.about-paragraph {
+  font-size: 20px;
+  width: 1400px;
+  margin: auto;
+}
+
+.teamcontainer {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.collectionpage {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.grid-collection {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.newdropsection {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+
+.newshirtpara {
+  width: 800px;
+  font-size: 20px;
+}
+
+.newshirttitle {
+  font-size: 60px;
+}
+
+.newbanner {
+  width: 700px;
+}
+
+.shirtcontainer {
+  display: flex;
+  gap: 100px;
+}
+
+.shirtimg {
+  width: 600px;
+}
