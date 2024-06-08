@@ -170,3 +170,16 @@ body {
 .shirtimg {
   width: 600px;
 }
+
+
+.contactpage {
+  display: flex ;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+}
+
+footer{ 
+  text-align: center;
+}
